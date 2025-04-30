@@ -12,7 +12,7 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://logospng.org/wp-content/uploads/c-plus-plus.png"
+    src="https://logospng.org/wp-content/uploads/c-plus-plus.png](https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
 />
 
 <br/>
