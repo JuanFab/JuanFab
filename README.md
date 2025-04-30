@@ -10,7 +10,7 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/240/c-programming.png" alt="c-programming"
 />
