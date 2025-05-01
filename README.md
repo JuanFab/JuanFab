@@ -41,7 +41,7 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
     align="left"
     alt="GitHubStats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&hide_progress=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&hide_progress=false"
 />
 
 </p>
