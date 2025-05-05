@@ -18,6 +18,8 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p align="left">
@@ -31,7 +33,10 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ### 🔗 Repositórios
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFab&repo=ProgramacaoEmC&theme=dark)
+
+---
