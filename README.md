@@ -24,16 +24,18 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
 
 <p align="left">
   <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="210"
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=transparent&card_width=320" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="margin-right: 10px;"
   />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&layout=donut&theme=transparent&card_width=320" 
+    alt="Top Langs"
+    height="200"
+  />
+</p>
 
 ### 🔗 Repositórios
 
