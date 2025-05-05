@@ -24,21 +24,24 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=transparent&card_width=320" 
+    src="https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=transparent&card_width=300" 
     alt="GitHub Stats" 
     height="200" 
     style="margin-right: 10px;"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&layout=donut&theme=transparent&card_width=320" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&layout=donut&theme=transparent&card_width=300" 
     alt="Top Langs"
     height="200"
   />
 </p>
 
+---
+
 ### 🔗 Repositórios
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFab&repo=ProgramacaoEmC&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFab&repo=Projetos&theme=dark)
 
 ---
