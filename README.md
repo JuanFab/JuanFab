@@ -36,6 +36,5 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
 ### 🔗 Repositórios
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFab&repo=ProgramacaoEmC&theme=dark)
-https://github.com/JuanFab/ProgramacaoEmC
 
 </p>
