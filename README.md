@@ -29,10 +29,7 @@ Me chamo Juan Fabio, tenho 20 anos e sou natural de Minas Gerais. Iniciei minha 
         src="https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=transparent" 
   />
 
-    
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFab&show_icons=true&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFab&theme=dark&layout=compact)
 
 ---
 
